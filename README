@@ -1,0 +1,11 @@
+General purpose scripts
+-----------------------
+
+Scripts that maked my life easier that don't a separate repository. Enjoy!
+
+-- Scripts --
+
+Filename		Usage				Description
+--------		-----				-----------
+
+random_background.sh	<filename> /path/to/images	Changes the background image to a random one in a specified directory.
