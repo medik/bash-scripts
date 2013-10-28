@@ -1,0 +1,15 @@
+Useful commands
+---------------
+
+This is not a script, but a list of useful commands that is not easily remembered or even frequently used. Enjoy!
+
+Command							Description
+-------							-----------
+(1) xinput list 					A list of connected HID devices.
+(2) xinput set-prop <nr> "Device Enabled" 0		Disable or enable the device with the help of (1)
+(3) git ls-files | xargs cat | wc -l			Count rows in a git repository
+(4) fc-cache -f -v					When you installing a font you should use this command. 
+(5) git fetch --all; git reset --hard origin/master	Forcing git to overwrite files
+(6) nohup path/to/script				Making a script run in the background
+(7) xrdb -merge ~/.Xresources				To reread your .Xresources file, and keep your old resources
+(8) xset dpms force [off|on]				To turn off or on the monitor
