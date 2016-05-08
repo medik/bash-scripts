@@ -9,7 +9,7 @@ Here is a list of useful commands I want to save somewhere.
 | Command				           | Description
 | -------					   | -----------
 | `xinput list` 				   | A list of connected HID devices.
-| `xinput set-prop <nr> "Device Enabled" 0`	   | Disable or enable the device with the help of (1)
+| `xinput set-prop <nr> "Device Enabled" [0\|1]`   | Disable or enable a device
 | `git ls-files | xargs cat | wc -l`		   | Count rows in a git repository
 | `fc-cache -f -v`				   | When you installing a font you should use this command. 
 | `git fetch --all; git reset --hard origin/master`| Forcing git to overwrite files
