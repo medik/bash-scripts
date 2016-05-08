@@ -9,4 +9,4 @@
 | git fetch --all; git reset --hard origin/master| Forcing git to overwrite files
 | nohup path/to/script				 | Making a script run in the background
 | xrdb -merge ~/.Xresources			 | To reread your .Xresources file, and keep your old resources
-| xset dpms force [off|on]			 | To turn off or on the monitor
+| xset dpms force [off\|on]			 | To turn off or on the monitor
