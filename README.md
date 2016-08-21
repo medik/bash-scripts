@@ -4,7 +4,7 @@ Small scripts that belongs in $HOME/bin
 
 ## Useful commands
 
-Here is a list of useful commands I want to save somewhere.
+Here is a list of useful commands I use sometimes.
 
 | Command				           | Description
 | -------					   | -----------
